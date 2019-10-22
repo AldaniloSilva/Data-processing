@@ -1,0 +1,35 @@
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe.config
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.pdb
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csproj.CoreCompileInputs.cache
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.exe
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.pdb
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csprojResolveAssemblyReference.cache
+C:\Users\miiil\Desktop\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe.config
+C:\Users\miiil\Desktop\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe
+C:\Users\miiil\Desktop\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.pdb
+C:\Users\miiil\Desktop\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csprojResolveAssemblyReference.cache
+C:\Users\miiil\Desktop\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csproj.CoreCompileInputs.cache
+C:\Users\miiil\Desktop\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.exe
+C:\Users\miiil\Desktop\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.pdb
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe.config
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.pdb
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csprojResolveAssemblyReference.cache
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csproj.CoreCompileInputs.cache
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.exe
+E:\FTT\3° Semestre\Estrutura\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.pdb
+C:\Users\082170022\Documents\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe.config
+C:\Users\082170022\Documents\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe
+C:\Users\082170022\Documents\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.pdb
+C:\Users\082170022\Documents\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csprojResolveAssemblyReference.cache
+C:\Users\082170022\Documents\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csproj.CoreCompileInputs.cache
+C:\Users\082170022\Documents\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.exe
+C:\Users\082170022\Documents\N2_Estrutura Falta N\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.pdb
+C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe.config
+C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe
+C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.pdb
+C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csprojResolveAssemblyReference.cache
+C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csproj.CoreCompileInputs.cache
+C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.exe
+C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.pdb
