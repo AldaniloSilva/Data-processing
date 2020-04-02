@@ -33,3 +33,10 @@ C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutur
 C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csproj.CoreCompileInputs.cache
 C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.exe
 C:\Users\Alipio\Desktop\Rev09_01\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.pdb
+B:\Processamento-de-Dados\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe.config
+B:\Processamento-de-Dados\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.exe
+B:\Processamento-de-Dados\N2_Estrutura\N2_Estrutura\bin\Debug\N2_Estrutura.pdb
+B:\Processamento-de-Dados\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csprojAssemblyReference.cache
+B:\Processamento-de-Dados\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.csproj.CoreCompileInputs.cache
+B:\Processamento-de-Dados\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.exe
+B:\Processamento-de-Dados\N2_Estrutura\N2_Estrutura\obj\Debug\N2_Estrutura.pdb

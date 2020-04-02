@@ -124,7 +124,7 @@ namespace N2_Estrutura
 
             #region D. Quantidade distinta de vendas individuais (sem repetir o código da venda)
             
-            leitura = new StreamReader("vendas2.txt");
+            leitura = new StreamReader("vendas.txt");
             linha = leitura.ReadLine();
             while (linha != null)
             {
